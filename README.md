@@ -1,4 +1,10 @@
-# Benifits of TDD
+# TDD - Test driven Development
+
+This  covers two frame works
+- Pytest
+- Unit test
+
+## Benifits of TDD
 
 - Simple code
 - Atomic
@@ -16,3 +22,6 @@ To get started do:
     jfjf
     
 ## Running tests 
+
+run this code:
+    
