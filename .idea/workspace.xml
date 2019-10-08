@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19b4c01c-29ea-42a4-b222-7490bf5cbe64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sci_calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/simple_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_unittest_simplecalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_unittest_simplecalc.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +25,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,7 +39,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_unittest_simplecalc.Calctest.test_divide">
+  <component name="RunManager" selected="Python.sci_calc_test">
+    <configuration name="sci_calc_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_driven_development_tdd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sci_calc_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simple_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_driven_development_tdd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for test_unittest_simplecalc.Calctest.test_add" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test_driven_development_tdd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,8 +126,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for test_unittest_simplecalc.Calctest.test_divide" />
+        <item itemvalue="Python.sci_calc_test" />
         <item itemvalue="Python tests.Unittests for test_unittest_simplecalc.Calctest.test_add" />
+        <item itemvalue="Python.simple_calc" />
+        <item itemvalue="Python tests.Unittests for test_unittest_simplecalc.Calctest.test_divide" />
         <item itemvalue="Python tests.Unittests in test_unittest_simplecalc.py" />
       </list>
     </recent_temporary>
